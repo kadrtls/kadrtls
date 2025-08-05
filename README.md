@@ -1,9 +1,6 @@
 <h1 align="center">Hii! 👋, I'm Abdulkadir</h1>
-<h3 align="center">I am in the third grade in computer engineering.I like to develop mobile applications, artificial intelligence is very interesting for me and I want to develop it</h3>
+<h3 align="center">I am junior full stack developer</h3>
 
-- 🔭 I’m currently working on **mobil application devolopment**
-
-- 🌱 I’m currently learning **Flutter and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
